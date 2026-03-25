@@ -49,31 +49,31 @@ Terminal 	Qualquer 	CMD, PowerShell, Bash, Zsh
 
 Nenhuma biblioteca externa é necessária.
 Instalação
-1. Clone o repositório
 
-git clone https://github.com/seu-usuario/snake-ascii.git
-cd snake-ascii
-
-Ou simplesmente baixe o arquivo snake.cpp diretamente.
+simplesmente baixe o arquivo snake.cpp diretamente.
 2. Compile
 
 Linux / macOS:
 
 g++ snake.cpp -o snake
 
+
 Windows (MinGW):
 
 g++ snake.cpp -o snake.exe
 
+
 Windows (MSVC):
 
 cl snake.cpp /Fe:snake.exe
+
 
 Como Executar
 
 Linux / macOS:
 
 ./snake
+
 
 Windows:
 
